@@ -21,3 +21,8 @@ Android application built using **AIDE on Mobile** for CodeAlpha Android Develop
 App shows quote text and author name on main screen with a button to fetch new quotes.
 
 ### 📂 Project Structure
+---
+
+**Author:** Sandeep Parupalli
+**Internship:** CodeAlpha Android Development
+**Task:** 2 - Random Quote Generator App
