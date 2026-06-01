@@ -1,4 +1,4 @@
-# CodeAlpha_RandomQuote
+# CodeAlpha_RandomQuoteGenerator
 
 ## Random Quote Generator App - CodeAlpha Internship Task 2
 
